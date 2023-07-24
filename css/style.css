@@ -155,4 +155,5 @@ img {
 
 .introducao a:hover {
   background: linear-gradient(#ffb60d, #e59317);
+  cursor: pointer;
 }
