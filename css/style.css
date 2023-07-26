@@ -54,6 +54,8 @@ img {
   color: #fff;
   font-size: 1.125rem;
   position: relative;
+  font-family: "Poppins";
+  font-weight: 400;
 }
 
 .header-menu a::after {
@@ -129,6 +131,8 @@ img {
   padding-bottom: 32px;
   font-size: 64px;
   line-height: 1.125;
+  font-family: "Poppins";
+  font-weight: 600;
 }
 
 .introducao h1 span {
@@ -172,7 +176,7 @@ img {
   }
 }
 
-@media (max-width: 1200) {
+@media (max-width: 1200px) {
   .introducao-bg {
     background: #111111;
     padding-top: 40px;
@@ -187,7 +191,7 @@ img {
   }
 }
 
-@media (max-width: 800) {
+@media (max-width: 800px) {
   .introducao {
     grid-template-columns: 1fr;
     gap: 32px;
