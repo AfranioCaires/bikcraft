@@ -113,7 +113,4 @@
   .bicicleta-comprar {
     grid-template-columns: 1fr;
   }
-   {
-    grid-template-columns: 1fr;
-  }
 }
