@@ -50,10 +50,6 @@
 }
 
 .orcamento-conteudo {
-  padding: 20px;
-  background: #222;
-  margin-bottom: 200px;
-  display: none;
 }
 
 #bikcraft:checked ~ #orcamento-bikcraft,
