@@ -7,4 +7,4 @@ Site de uma loja de bicicletas elétricas.
 - HTML
 - CSS
 - JS
-- PHP
+
