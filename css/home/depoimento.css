@@ -56,7 +56,7 @@
 
   .depoimento p::before,
   .depoimento p::after {
-    content: "";
+    font-size: 2rem;
   }
 
   .depoimento-conteudo {
