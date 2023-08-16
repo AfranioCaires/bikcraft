@@ -39,10 +39,12 @@
   content: "“";
   left: -50px;
   top: -20px;
+  overflow: hidden;
 }
 
 .depoimento p::after {
   content: "”";
+  overflow: hidden;
 }
 
 @media (max-width: 800px) {
