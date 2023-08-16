@@ -1,5 +1,7 @@
 # Bikcraft
 
+![Fotografia final do projeto](./.github/preview.png)
+
 Site de uma loja de bicicletas elétricas. Projeto realizado durante o cruso da Origamid.
 
 Você pode visitar uma versão do site pelo link:
