@@ -39,12 +39,10 @@
   content: "“";
   left: -50px;
   top: -20px;
-  overflow: hidden;
 }
 
 .depoimento p::after {
   content: "”";
-  overflow: hidden;
 }
 
 @media (max-width: 800px) {
@@ -55,6 +53,12 @@
   .depoimento img {
     max-height: 200px;
   }
+
+  .depoimento p::before,
+  .depoimento p::after {
+    font-size: 3rem;
+  }
+
   .depoimento-conteudo {
     padding: 40px 20px;
     justify-self: center;
