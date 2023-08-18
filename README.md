@@ -29,10 +29,7 @@ O site foi feito dando ênfase no HTML e CSS, utilizando o mínimo de javaScript
 - Faça um fork do projeto ou clone do projeto:
 
 ```bash
-# Clone este repositório
 $ git clone <https://github.com/AfranioCaires/bikcraft.git>
-
-# Acesse a pasta do projeto no terminal/cmd
 $ cd bikcraft
 ```
 
